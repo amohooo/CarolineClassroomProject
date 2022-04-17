@@ -1,0 +1,42 @@
+[Box: ::CarolineScenario - ::<<Unknown>>::ActionListener]
+X=225
+Y=763
+
+[Box: ::CarolineScenario - ::<<Unknown>>::Comparable]
+X=20
+Y=252
+
+[Box: ::CarolineScenario - ::<<Unknown>>::JFrame]
+X=429
+Y=40
+
+[Box: ::CarolineScenario - ::CarolineScenario::Main]
+X=634
+Y=40
+
+[Box: ::CarolineScenario - ::CarolineScenario::MainScreen]
+X=225
+Y=252
+
+[Box: ::CarolineScenario - ::CarolineScenario::SortingPage]
+X=430
+Y=252
+
+[Box: ::CarolineScenario - ::CarolineScenario::SortPage]
+X=635
+Y=252
+
+[Box: ::CarolineScenario - ::CarolineScenario::Student]
+X=27
+Y=39
+
+[Box: ::CarolineScenario - ::CarolineScenario::UIComponents]
+X=20
+Y=763
+
+[Diagram: ::CarolineScenario]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
