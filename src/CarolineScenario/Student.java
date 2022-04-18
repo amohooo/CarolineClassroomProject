@@ -18,7 +18,7 @@ public class Student implements Comparable
         return studentName;
 
     }
-
+//get coordinate
     public int getxPos()
     {
         return xPos;

@@ -18,7 +18,7 @@ public class MainScreen extends JFrame implements ActionListener
     JTextField[][] textFields = new JTextField[19][10]; //text field table is set with 19 rows and 10 columns
     JTextField txtSearch, txtTeacher, txtClass, txtRoom, txtDate;
     JLabel lblTeacher, lblClass, lblRoom, lblDate, lblNote;
-
+//this is the main screen set up
     public MainScreen()
     {
         setSize(1200,650);
@@ -30,6 +30,7 @@ public class MainScreen extends JFrame implements ActionListener
         SetupLabels();
         setVisible(true);
     }
+    //this method is for set up button
     private void SetUpButtons()//set button name, location, size and style
     {
         btnExit = UIComponents.CreateJButton("Exit",80,25,1050,540,this,this,myLayout);
